@@ -1,0 +1,5 @@
+Slurp's Calculator version 1.0
+
+This is a Standard calculator with the usual +,-,/,* functions. All procedures are contained within in a module which may seem a little odd to some but that should make it more educational at least. Included is coding to prevent division by zero which would otherwise cause errors. Also the last 10 answers found are displayed in a list box which might be useful for some. 
+
+http://www.slurpcandy.co.uk/welcome.htm
